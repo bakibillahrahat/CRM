@@ -31,7 +31,7 @@ Provide instructions on how to install your CRM software. Include any prerequisi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-crm-software.git
+git clone https://github.com/bakibillahrahat/CRMgit
 
 # Install dependencies
 npm install
